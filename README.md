@@ -4,5 +4,4 @@
 
 ## 文档
 
-- `programming-cloud-vicoa.md` — 编程云吸收 Vicoa 编排能力意图
 - `qtcode/index.md` — 代码中心人机协作规范意图
